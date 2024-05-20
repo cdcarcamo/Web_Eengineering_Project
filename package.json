@@ -1,0 +1,20 @@
+{
+  "name": "proyecto_ingenieria_web_caso3",
+  "version": "1.0.0",
+  "description": "Proyecto final Milagros para el cabello",
+  "main": "funciones.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Web_Engineering_Project"
+  },
+  "keywords": [
+    "Engineering",
+    "node",
+    "backend"
+  ],
+  "author": "Carlos Daniel Cárcamo Sepúlveda",
+  "license": "ISC"
+}
